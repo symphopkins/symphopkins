@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, I'm Symphony 👋🏾
 
-<!--
-**symphopkins/symphopkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second year M.S. Student passionate about integrating data science with psychology. Welcome to my GitHub profile! I am currently enrolled in a text mining course that covers text analytics— the practice of extracting valuable insights from unstructured text, including sources like social media, emails, and web pages, using Python. Over the next few months, my projects will revolve around applying these text mining techniques.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- **Languages:** Python, SQL, R
+- **Tools and Packages:** Scikit-Learn, TensorFlow, NumPy, Pandas, Tableau, pgAdmin, Azure Data Studio, Jupyter, MS Office
+  
+## 🔭 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Project 1](https://github.com/yourusername/project1): Short project description.
+- [Project 2](https://github.com/yourusername/project2): Short project description.
+
+Thanks for visiting my GitHub profile! 😄
