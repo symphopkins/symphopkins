@@ -8,7 +8,7 @@ I'm a second year M.S. Student passionate about integrating data science with ps
   
 ## 🔭 Current Projects
 
-- [Project 1](https://github.com/yourusername/project1): Short project description.
-- [Project 2](https://github.com/yourusername/project2): Short project description.
+- [Google Seach Text Analytics](https://github.com/symphopkins/Google_Search_Text_Analytics/blob/main/Google_Search_Text_Analytics.ipynb): We're acting as data scientist at the Department of Transportation, tasked with enhancing our road condition dashboard. To gather more search data, our manager enables us to monitor Google Search feeds, extracting the latest 100 weather-related searches for word cloud creation and named entity recognition.
+- [Text Manipulation Using ReGex](https://github.com/symphopkins/Google_Search_Text_Analytics/blob/main/Google_Search_ReGex_Text_Cleaning.ipynb): Similar to before, we are extracting the latest 100 weather-related Google searches; however, we will use regular expression (regex) to clean the text data.
 
 Thanks for visiting my GitHub profile! 😄
