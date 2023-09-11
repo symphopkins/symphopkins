@@ -1,6 +1,6 @@
 # Hello, I'm Symphony 👋🏾
 
-I'm a second year M.S. Student passionate about integrating data science with psychology. Welcome to my GitHub profile! I am currently enrolled in a text mining course that covers text analytics— the practice of extracting valuable insights from unstructured text, including sources like social media, emails, and web pages, using Python. Over the next few months, my projects will revolve around applying these text mining techniques.
+I'm a second year M.S. Student passionate about integrating data science with psychology. Welcome to my GitHub profile! I am currently enrolled in a text mining course that covers text analytics— the practice of extracting valuable insights from unstructured text, including sources like social media, emails, and web pages, using Python. Over the next few months, my projects will revolve around applying text mining techniques.
 
 ## 🛠️ Technical Skills
 - **Languages:** Python, SQL, R
