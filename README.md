@@ -1,6 +1,6 @@
 # Hello, I'm Symphony 👋🏾
 
-I'm a second year M.S. Student passionate about integrating data science with psychology. Welcome to my GitHub profile! I am currently enrolled in a text mining course that covers text analytics— the practice of extracting valuable insights from unstructured text, including sources like social media, emails, and web pages, using Python. Over the next few months, my projects will revolve around applying text mining techniques.
+Welcome to my GitHub profile! I'm a second year M.S. Student passionate about integrating data science with psychology. I am currently enrolled in a text mining course so over the next few months, my projects will revolve around applying techniques from the course. Feel free to look into my repositories, where you'll find a variety of projects incorporating techniques such as data cleaning, querying, modeling, analysis, and visualization.
 
 ## 🛠️ Technical Skills
 - **Languages:** Python, SQL, R
@@ -8,8 +8,8 @@ I'm a second year M.S. Student passionate about integrating data science with ps
   
 ## 🔭 Current Projects
 
-- [Google Seach Text Analytics](https://github.com/symphopkins/Google_Search_Text_Analytics/blob/main/Google_Search_Text_Analytics.ipynb): We're acting as data scientist at the Department of Transportation, tasked with enhancing our road condition dashboard. To gather more search data, our manager enables us to monitor Google Search feeds, extracting the latest 100 weather-related searches for word cloud creation and named entity recognition.
-- [Text Manipulation Using ReGex](https://github.com/symphopkins/Google_Search_Text_Analytics/blob/main/Google_Search_ReGex_Text_Cleaning.ipynb): Similar to before, we are extracting the latest 100 weather-related Google searches; however, we will use regular expression (regex) to clean the text data.
-- [Tax Document Text Analysis](https://github.com/symphopkins/Tax_Document_Text_Analysis): We are acting as part of a data scientist team working for a retirement investment company. We were given a paper in pdf file and asked to perform tokenization, lemmatization, NER, etc.
-  
+- [Sentiment140 Sentiment Classification](https://github.com/symphopkins/Sentiment140_Models/blob/main/Project6_Hopkins_Symphony.ipynb): Implemented and evaluated multiple language models for sentiment classification using tweets from Stanford's dataset.
+- [Political Tweets TD-IDF Analysis](https://github.com/symphopkins/Political_Tweets_TDIDF_Analysis/blob/main/Project4_Hopkins_Symphony.ipynb): Conducted a TD-IDF analysis on political tweets for a consulting firm.
+- [Tax Document Text Analysis](https://github.com/symphopkins/Tax_Document_Text_Analysis): Applied tokenization, lemmatization, Named Entity Recognition (NER), and other tasks to a PDF document.
+
 Thanks for visiting my GitHub profile! 😄
