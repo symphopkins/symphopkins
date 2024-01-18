@@ -1,6 +1,6 @@
 # Hello, I'm Symphony 👋🏾
 
-Welcome to my GitHub profile! I'm a second year M.S. Data Science sutudent. Feel free to look into my repositories, where you'll find a variety of projects incorporating techniques such as data cleaning, analysis, and visualization.
+Welcome to my GitHub profile! Feel free to look into my repositories, where you'll find a variety of projects incorporating techniques such as data cleaning, analysis, and visualization.
 
 ## 🛠️ Technical Skills
 - **Languages:** Python, SQL, R
