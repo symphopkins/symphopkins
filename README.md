@@ -4,5 +4,6 @@ Welcome to my GitHub profile! I am currently revising my profile but feel free t
 
 ## 🛠️ Technical Skills
  - **Programming Languages:** Python, SQL, R
- - **Analysis and Management Tools:** Azure Data Studio, Docker, GitHub, Google Colaboratory, Excel, MongoDB, Neo4j, Jupyter Notebook, pgAdmin, PySpark, Tableau, VS Code
-  
+ - **Data Analysis Tools:** Excel, Power BI, Pyspark, Tableau
+ - **Database Management:** MongoDB, Neo4j, pgAdmin, PostgreSQL
+ - **Version Control Systems:** Git
